@@ -1,0 +1,190 @@
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/appsettings.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/FoodProject.exe
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/FoodProject.deps.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/FoodProject.runtimeconfig.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/FoodProject.runtimeconfig.dev.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/FoodProject.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/ref/FoodProject.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/FoodProject.pdb
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/FoodProject.Views.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/bin/Debug/net5.0/FoodProject.Views.pdb
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.csproj.AssemblyReference.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.AssemblyInfoInputs.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.AssemblyInfo.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.csproj.CoreCompileInputs.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.RazorAssemblyInfo.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.RazorAssemblyInfo.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/staticwebassets/FoodProject.StaticWebAssets.Manifest.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/staticwebassets/FoodProject.StaticWebAssets.xml
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/scopedcss/bundle/FoodProject.styles.css
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.TagHelpers.input.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.TagHelpers.output.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.RazorCoreGenerate.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.RazorTargetAssemblyInfo.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.RazorTargetAssemblyInfo.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.Views.pdb
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/ref/FoodProject.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.pdb
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.genruntimeconfig.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/FoodProject.csproj.CopyComplete
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/About/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/Menu/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/Comment/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Desktop/FoodProject/FoodProject/obj/Debug/net5.0/Razor/Views/Contact/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/appsettings.Development.json
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/appsettings.json
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.StaticWebAssets.xml
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.deps.json
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.runtimeconfig.json
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.runtimeconfig.dev.json
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.dll
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.pdb
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.Views.dll
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.Views.pdb
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.csproj.AssemblyReference.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.AssemblyInfoInputs.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.AssemblyInfo.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.csproj.CoreCompileInputs.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorAssemblyInfo.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorAssemblyInfo.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/scopedcss/bundle/FoodProject.styles.css
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/staticwebassets/FoodProject.StaticWebAssets.Manifest.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/staticwebassets/FoodProject.StaticWebAssets.Pack.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/staticwebassets/msbuild.FoodProject.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/staticwebassets/msbuild.build.FoodProject.props
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.FoodProject.props
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.FoodProject.props
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.TagHelpers.input.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.TagHelpers.output.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorCoreGenerate.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/About/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Comment/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Contact/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Menu/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorTargetAssemblyInfo.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorTargetAssemblyInfo.cs
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.Views.pdb
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.dll
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/refint/FoodProject.dll
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.pdb
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.genruntimeconfig.cache
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/ref/FoodProject.dll
+/Users/elifsarp/Desktop/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.csproj.CopyComplete
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/appsettings.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.exe
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.deps.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.runtimeconfig.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.runtimeconfig.dev.json
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/ref/FoodProject.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.pdb
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.Views.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/bin/Debug/net5.0/FoodProject.Views.pdb
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.csproj.AssemblyReference.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.AssemblyInfoInputs.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.AssemblyInfo.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.csproj.CoreCompileInputs.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorAssemblyInfo.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorAssemblyInfo.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/staticwebassets/FoodProject.StaticWebAssets.Manifest.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/staticwebassets/FoodProject.StaticWebAssets.xml
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/scopedcss/bundle/FoodProject.styles.css
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.TagHelpers.input.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.TagHelpers.output.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorCoreGenerate.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/About/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Comment/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Contact/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Menu/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorTargetAssemblyInfo.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.RazorTargetAssemblyInfo.cs
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.Views.pdb
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/ref/FoodProject.dll
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.pdb
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.genruntimeconfig.cache
+C:/Users/FUJITSU.DESKTOP-MRA9NE4/Downloads/FoodProject (1) 2/FoodProject (1)/FoodProject/obj/Debug/net5.0/FoodProject.csproj.CopyComplete
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/appsettings.Development.json
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/appsettings.json
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/FoodProject.StaticWebAssets.xml
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/FoodProject
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/FoodProject.deps.json
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/FoodProject.runtimeconfig.json
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/FoodProject.runtimeconfig.dev.json
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/FoodProject.dll
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/FoodProject.pdb
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/FoodProject.Views.dll
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/bin/Debug/net5.0/FoodProject.Views.pdb
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.csproj.AssemblyReference.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.AssemblyInfoInputs.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.AssemblyInfo.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.csproj.CoreCompileInputs.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.RazorAssemblyInfo.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.RazorAssemblyInfo.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/scopedcss/bundle/FoodProject.styles.css
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/staticwebassets/FoodProject.StaticWebAssets.Manifest.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/staticwebassets/FoodProject.StaticWebAssets.Pack.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/staticwebassets/msbuild.FoodProject.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/staticwebassets/msbuild.build.FoodProject.props
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.FoodProject.props
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.FoodProject.props
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.TagHelpers.input.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.TagHelpers.output.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.RazorCoreGenerate.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/About/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/Comment/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/Contact/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/Menu/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.RazorTargetAssemblyInfo.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.RazorTargetAssemblyInfo.cs
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.Views.pdb
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.dll
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/refint/FoodProject.dll
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.pdb
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.genruntimeconfig.cache
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/ref/FoodProject.dll
+/Users/elifsarp/Desktop/FoodProject (1) 2/FoodProject/obj/Debug/net5.0/FoodProject.csproj.CopyComplete

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/elifsarp/.dotnet/store/|arch|/|tfm|",
+      "/Users/elifsarp/.nuget/packages"
+    ]
+  }
+}
